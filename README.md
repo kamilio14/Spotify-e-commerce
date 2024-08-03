@@ -14,4 +14,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spotify-ecommerce-app.git
+   git clone https://github.com/kamilio14/spotify-ecommerce-app.git
